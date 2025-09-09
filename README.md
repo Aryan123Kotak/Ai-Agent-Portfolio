@@ -95,7 +95,8 @@ Workflows are built with **modular design**, making them reusable, scalable, and
 ---
 
 ## 📂 Access the Full Collection
-👉 [Google Drive Folder – All AI Agents](https://drive.google.com/drive/folders/19zoNfraSl8iLC3jxcYzXm4uKbKDDkf88?usp=sharing)
+📂 See the full list of 30+ agents here → [PROJECTS.md](PROJECTS.md)
+
 
 ---
 
